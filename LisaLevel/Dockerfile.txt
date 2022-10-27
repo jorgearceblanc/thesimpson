@@ -1,0 +1,14 @@
+FROM python:latest
+
+RUN mkdir LisaLevel
+COPY main.py ./LisaLevel
+COPY requirements.txt ./LisaLevel
+
+RUN mkdir LisaLevel/Lisa
+RUN mkdir LisaLevel/Homer
+RUN mkdir LisaLevel/General
+
+RUN pip install --upgrade pip
+RUN pip install -r ./Lisa/requirements.txt
+
+CMD ["python", "LisaLevel/main.py"]
