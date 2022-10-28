@@ -1,4 +1,5 @@
 # Entregable 0: THE SIMPSONS
+![Image text](https://cdn.vox-cdn.com/thumbor/F1UHvb9EXABcG1p9skny2Gh4rvY=/148x0:1768x1080/1280x854/filters:format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/47413330/the-simpsons-tv-series-cast-wallpaper-109911.0.0.jpeg)
 ## En este repositorio se encuentran 2 de los ejercicios propuestos.
 
 # En el primer ejercicio, llamado MaggieLevel se pide:
